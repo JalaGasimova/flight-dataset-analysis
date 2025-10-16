@@ -10,9 +10,6 @@ Dataset
 
 Source: https://www.kaggle.com/datasets/polartech/flight-data-with-1-million-or-more-records
 
-Əla 👍 GitHub README və ya portfolioya qoymaq üçün genişləndirilmiş Project Description variantını yazıram:
-
-
 
 🔹 Key Steps in the Project
 
