@@ -77,8 +77,4 @@ LinkedIn: www.linkedin.com/in/jala-gasimova-185b70388
 
 
 
----
 
-Əgər istəyirsənsə, mən bunu daha vizual, GitHub-dakı badges, sections və layihə status ilə zəngin README formatına da çevirə bilərəm.
-
-İstəyirsən bunu edim?
